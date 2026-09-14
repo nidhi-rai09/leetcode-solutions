@@ -41,4 +41,12 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
