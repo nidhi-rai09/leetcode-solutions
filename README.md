@@ -74,6 +74,7 @@ My LeetCode problem-solving solutions.
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -105,6 +106,7 @@ My LeetCode problem-solving solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -115,6 +117,7 @@ My LeetCode problem-solving solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
