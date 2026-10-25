@@ -11,6 +11,7 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -68,6 +69,7 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
@@ -139,6 +141,7 @@ My LeetCode problem-solving solutions.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -154,4 +157,12 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
