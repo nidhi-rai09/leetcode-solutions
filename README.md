@@ -11,6 +11,7 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0066-plus-one) |
 | [0835-image-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -76,6 +77,7 @@ My LeetCode problem-solving solutions.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
