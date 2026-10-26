@@ -13,6 +13,7 @@ My LeetCode problem-solving solutions.
 | [0053-maximum-subarray](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0835-image-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -56,6 +57,7 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
