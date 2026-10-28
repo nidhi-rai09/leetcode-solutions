@@ -14,6 +14,7 @@ My LeetCode problem-solving solutions.
 | [0066-plus-one](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0835-image-overlap](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -32,6 +33,7 @@ My LeetCode problem-solving solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -66,6 +68,7 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
