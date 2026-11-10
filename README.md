@@ -28,6 +28,7 @@ My LeetCode problem-solving solutions.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -66,6 +67,7 @@ My LeetCode problem-solving solutions.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3693-climbing-stairs-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
