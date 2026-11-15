@@ -10,6 +10,7 @@ My LeetCode problem-solving solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -38,6 +39,7 @@ My LeetCode problem-solving solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
