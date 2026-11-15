@@ -107,6 +107,7 @@ My LeetCode problem-solving solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -114,6 +115,7 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -216,4 +218,20 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
