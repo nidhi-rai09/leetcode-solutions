@@ -10,6 +10,7 @@ My LeetCode problem-solving solutions.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ My LeetCode problem-solving solutions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0301-remove-invalid-parentheses](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -200,4 +202,8 @@ My LeetCode problem-solving solutions.
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
