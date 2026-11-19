@@ -22,6 +22,7 @@ My LeetCode problem-solving solutions.
 | [1254-number-of-closed-islands](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -83,6 +84,7 @@ My LeetCode problem-solving solutions.
 | [0217-contains-duplicate](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -140,6 +142,7 @@ My LeetCode problem-solving solutions.
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nidhi-rai09/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
